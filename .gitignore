@@ -1,0 +1,6 @@
+.idea
+.vscode
+.env
+node_modules
+serviceaccount.json
+config/default.json
